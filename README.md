@@ -9,7 +9,9 @@ Completed over one weekend (≈5-6 hours of focused work) with no prior seismic 
 ![Raw / Filtered / Envelope sections of Teapot Dome Line A](images/section_comparison.png)
 
 **Left:** raw 2D section from Teapot Dome Line A — each vertical column is one surface position along the line; vertical axis is two-way travel time (shallower at top, deeper at bottom). Red/blue stripes mark rock layer boundaries.
+
 **Middle:** same section after a 10–55 Hz Butterworth bandpass filter.
+
 **Right:** envelope attribute (Hilbert transform magnitude) — bright regions = strong reflection energy regardless of polarity.
 
 **What's visible:**
