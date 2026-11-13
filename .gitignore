@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+teapo.sgy/
+*.sgy
+*.segy
+.DS_Store

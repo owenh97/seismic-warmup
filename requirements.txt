@@ -1,0 +1,5 @@
+segyio
+numpy
+scipy
+matplotlib
+jupyterlab
